@@ -1,4 +1,3 @@
-# Add  code here!
 def prime?(i)
   if i.between?(-1,1)
     false
